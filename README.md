@@ -19,7 +19,7 @@ I have used Kotlin as primary language to building this application.
 
 There are a lot of kotlin concepts incorporated while building this app to mention some:
 
-(i) Used TornadoFX to build this application it is an hert of this app, used for GUI pusrose.
+(i) Used TornadoFX to build this application it is an heart of this app, used for GUI pusrose.
 
 (ii) Kotlin one liners really made the code very easy to read and most importantly helped in getting rid of the excessive code needed for small operations like looping and conditional statements.
 
