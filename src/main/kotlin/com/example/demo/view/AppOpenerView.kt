@@ -7,7 +7,7 @@ import tornadofx.*
 import java.io.File
 
 // View space..
-class AppOpener : View() {
+class AppOpenerView : View() {
 
     override val root = borderpane()
 
